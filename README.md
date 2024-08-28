@@ -41,3 +41,7 @@
 [Шпаргалка по FlexBox](https://tpverstak.ru/flex-cheatsheet/)
 
 [FlexBox Froggy](https://flexboxfroggy.com/#ru) - игра для изучения FlexBox.
+
+### Git
+
+[Git игра для изучения](https://learngitbranching.js.org/?locale=ru_RU)
