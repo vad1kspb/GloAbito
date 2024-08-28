@@ -33,6 +33,13 @@
 ## Урок 2.
 
 - 01h14h55s - оставил кнопку для самостоятельнй работы
+- Задание с кнопкой сделал
+
+## Урок 3. Подключаем JS. Изучаем базовые понятия. Обработка событий.
+
+
+
+
 
 ## Полезные ссылки
 
@@ -45,8 +52,11 @@
 [Шпаргалка по FlexBox](https://tpverstak.ru/flex-cheatsheet/)
 
 [FlexBox Froggy](https://flexboxfroggy.com/#ru) - игра для изучения FlexBox.
+
 [Flexbox Defense](http://www.flexboxdefense.com/) - игра для изучения FlexBox
 
 ### Git
 
 [LearnGitBranching игра для изучения Git](https://learngitbranching.js.org/?locale=ru_RU)
+
+### Урок 3.
