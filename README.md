@@ -44,4 +44,4 @@
 
 ### Git
 
-[Git игра для изучения](https://learngitbranching.js.org/?locale=ru_RU)
+[LearnGitBranching игра для изучения Git](https://learngitbranching.js.org/?locale=ru_RU)
