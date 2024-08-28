@@ -60,3 +60,15 @@
 [LearnGitBranching игра для изучения Git](https://learngitbranching.js.org/?locale=ru_RU)
 
 ### Урок 3.
+
+[Переменные](https://learn.javascript.ru/variables)
+
+[Var, let или const?](https://habr.com/ru/company/ruvds/blog/420359/)
+
+[Функции](https://learn.javascript.ru/function-basics)
+
+[Условия](https://learn.javascript.ru/ifelse)
+
+[Браузерные события](https://learn.javascript.ru/introduction-browser-events)
+
+[Поиск: getElement*, querySelector*](https://learn.javascript.ru/searching-elements-dom)
