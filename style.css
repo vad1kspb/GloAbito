@@ -31,6 +31,8 @@ body {
 .btn-primary {
   background-color: rgb(37, 110, 235);
   color: rgb(255, 255, 255);
+  width: 254px;
+  padding: 19px 0;
 }
 
 .header {
@@ -48,6 +50,7 @@ body {
   display: flex;
   justify-content: flex-start;
   align-items: center;
+  text-decoration: none;
 }
 
 .header-logo span {
@@ -55,6 +58,7 @@ body {
   font-size: 24px;
   font-weight: 700;
   margin-left: 6px;
+  color: rgb(10, 20, 58);
 }
 
 .header-burger {
@@ -258,6 +262,15 @@ body {
   margin-bottom: 25px;
 }
 
+.content-product__img {
+  width: 100%;
+}
+
+.content-product__text {
+  font-size: 14px;
+  line-height: 20px;
+}
+
 @media (max-width: 1200px) {
   .container {
     max-width: 991px;
@@ -292,13 +305,11 @@ body {
   }
 
   .content-product__left {
-    border: 1px solid red;
     flex-basis: 100%;
     width: 100%;
   }
 
   .content-product__right {
-    border: 1px solid red;
     flex-basis: 100%;
     width: 100%;
   }
