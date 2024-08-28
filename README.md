@@ -45,6 +45,7 @@
 [Шпаргалка по FlexBox](https://tpverstak.ru/flex-cheatsheet/)
 
 [FlexBox Froggy](https://flexboxfroggy.com/#ru) - игра для изучения FlexBox.
+[Flexbox Defense](http://www.flexboxdefense.com/) - игра для изучения FlexBox
 
 ### Git
 
