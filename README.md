@@ -72,3 +72,5 @@
 [Браузерные события](https://learn.javascript.ru/introduction-browser-events)
 
 [Поиск: getElement*, querySelector*](https://learn.javascript.ru/searching-elements-dom)
+
+[Игра CodeCombat](https://codecombat.com/play/level/dungeons-of-kithgard?)
